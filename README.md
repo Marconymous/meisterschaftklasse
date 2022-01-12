@@ -1,1 +1,1 @@
-"# Meisterschaftsklasse" 
+# Meisterschaftsklasse
